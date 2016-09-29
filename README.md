@@ -6,4 +6,4 @@ CHANGES
  * Added debugging option
  * Added support for https urls
  * Added default global useragent of Chromium, instead of LWP's default
- * Added a new variable (and initialization) of LongTime for sites that can use it
+ * Added a new variable (and initialization) of LongTime for page footer
